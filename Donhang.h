@@ -1,5 +1,10 @@
 #pragma once
-#include "Quanly.h"
+#include <cstring>
+#include <string>
+#include <iostream>
+#include "Sanpham.h"
+#include <vector>
+using namespace std;
 
 class Donhang {
 	string madonhang;

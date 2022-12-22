@@ -1,5 +1,10 @@
 #pragma once
-#include "QuanLy.h"
+#include <cstring>
+#include <string>
+#include <iostream>
+#include "Giohang.h"
+#include "Donhang.h"
+using namespace std;
 
 class Khachhang {
 	string name;

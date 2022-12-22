@@ -1,4 +1,5 @@
-#include "QuanLy.h"
+#include "Cacdanhmuc.h"
+
 
 Aothun::Aothun()
 {

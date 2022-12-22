@@ -1,4 +1,4 @@
-#include "QuanLy.h"
+#include "Magiamgia.h"
 
 Magiamgia::Magiamgia()
 {

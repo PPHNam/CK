@@ -1,4 +1,4 @@
-#include "QuanLy.h"
+#include "Giohang.h"
 
 Giohang::Giohang()
 {

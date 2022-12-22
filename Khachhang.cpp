@@ -1,4 +1,4 @@
-#include "QuanLy.h"
+#include "Khachhang.h"
 
 Khachhang::Khachhang()
 {
@@ -18,16 +18,7 @@ Khachhang::Khachhang(string name, string email, string addr, bool gender, string
 	this->giohang = giohang;
 	this->donhang = donhang;
 }
-//Khachhang::Khachhang(string name, string email, string addr, bool gender, string dob, Giohang giohang, Donhang donhang)
-//{
-//	this->name = name;
-//	this->email = email;
-//	this->addr = addr;
-//	this->gender = gender;
-//	this->dob = dob;
-//	this->giohang = giohang;
-//	this->donhang = donhang;
-//}
+
 Khachhang::Khachhang(const Khachhang& tmp)
 {
 	this->name = tmp.name;

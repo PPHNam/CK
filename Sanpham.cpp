@@ -1,4 +1,4 @@
-#include "QuanLy.h"
+#include "Sanpham.h"
 
 Sanpham::Sanpham()
 {

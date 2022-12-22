@@ -1,4 +1,6 @@
-#include "QuanLy.h"
+#include <iostream>
+#include "Donhang.h"
+
 
 Donhang::Donhang()
 {

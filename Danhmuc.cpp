@@ -1,4 +1,4 @@
-#include "QuanLy.h"
+#include "Danhmuc.h"
 
 Danhmuc::Danhmuc()
 {

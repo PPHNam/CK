@@ -1,5 +1,8 @@
 #pragma once
-#include "QuanLy.h"
+#include <cstring>
+#include <string>
+#include <iostream>
+using namespace std;
 
 class Danhmuc {
 	string name;
